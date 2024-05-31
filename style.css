@@ -1,0 +1,33 @@
+    body {
+        background-color: #FFFAE6
+    }
+    
+    h1 {
+        color:#002379;
+        text-align: center;
+    }
+    
+    blockquote {
+        background-color:#FF9F66;
+        border-left:25px solid #FF5F00;
+        border-radius:5px;
+        text-align:center;
+        padding-bottom:10px;    
+        padding-top:10px;
+    }
+
+    a {
+        text-decoration: none;
+    }
+    
+    a:hover {
+        background-color: gold;
+    }
+    
+    a:visited {
+        color: brown;
+    }
+    
+    footer {
+        font-weight:bold;
+    }
