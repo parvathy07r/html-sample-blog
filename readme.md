@@ -1,1 +1,1 @@
-https://parvathy07r.github.io/html-sample-blog/index.html
+https://parvathy07r.github.io/html-sample-blog/
